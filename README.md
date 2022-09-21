@@ -5,6 +5,9 @@ Based on [martinruenz/gnuplot-cpp: A trivial gnuplot interface for c++](https://
 ### TODOs
 - [ ] build library (my boost)
 
+### Documentation
+- [**gnuplot Quick Reference**](http://www.gnuplot.info/docs_4.0/gpcard.pdf)
+
 ### Reference
 - [dstahlke/gnuplot-iostream: C++ interface to gnuplot](https://github.com/dstahlke/gnuplot-iostream)
 - [MichaelBuchhorn/gnuplot-cpp-interface: A simple pipe based interface for the popular visualisation program Gnuplot for C++ and Windows.](https://github.com/MichaelBuchhorn/gnuplot-cpp-interface)
